@@ -1,3 +1,3 @@
-## Automatical pentest tools
+## Automatical tools
 
-Tools I wrote to serve my pentest work and study
+Tools I wrote to serve my work and study
